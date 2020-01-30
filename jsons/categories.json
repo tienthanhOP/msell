@@ -1,0 +1,106 @@
+[
+        {
+                "category": "land_house",
+                "category_name": "Nhà đất",
+                "level": 1,
+                "parent_id": "land_house"
+        },
+        {
+                "category": "land_house_apartment",
+                "category_name": "Căn hộ chung cư",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 0
+        },
+        {
+                "category": "land_house_home",
+                "category_name": "Nhà riêng",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 0
+        },
+        {
+                "category": "land_house_villa",
+                "category_name": "Biệt thự, liền kề",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 1
+        },
+        {
+                "category": "land_house_street",
+                "category_name": "Mặt phố",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 0
+        },
+        {
+                "category": "land_house_project_ground",
+                "category_name": "Đất nền dự án",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 1
+        },
+        {
+                "category": "land_house_ground",
+                "category_name": "Đất nền",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 1
+        },
+        {
+                "category": "land_house_farms_resorts",
+                "category_name": "Trang trại, khu nghỉ dưỡng",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 1
+        },
+        {
+                "category": "land_house_other_real_estate",
+                "category_name": "Bất động sản khác",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 1
+        },
+        {
+                "category": "land_house_warehouse_workshop",
+                "category_name": "Kho, nhà xưởng",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 1
+        },
+        {
+                "category": "land_house_office",
+                "category_name": "Văn phòng",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 2
+        },
+        {
+                "category": "land_house_shops_kiosks",
+                "category_name": "Cửa hàng, ki ốt",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 2
+        },
+        {
+                "category": "land_house_warehouse_workshop_land",
+                "category_name": "Kho, nhà xưởng, đất",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 2
+        },
+        {
+                "category": "land_house_inn_motel_room",
+                "category_name": "Nhà trọ, phòng trọ",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 2
+        },
+        {
+                "category": "land_house_real_estate",
+                "category_name": "Bất động sản khác",
+                "level": 2,
+                "parent_id": "land_house",
+                "type_of_post": 2
+        }
+]
